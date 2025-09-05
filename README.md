@@ -2,6 +2,7 @@
 **Creación de Memorias USB Booteables con Rufus y Ventoy**  
 **Universidad Santo Tomás**  
 **Fecha:** 23 de agosto de 2025  
+**Integrantes:** **David Saniago lopez , David Felipe Diaz, Jonathan David Diaz** 
 
 ---
 
